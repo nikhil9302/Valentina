@@ -9,8 +9,10 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-# macOS
-.DS_Store
+google-services.json
 
+# macOS / iOS
+.DS_Store
+GoogleServices-Info.plist
 yarn.lock
 
