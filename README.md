@@ -19,9 +19,9 @@
    IIIT Kottayam's In-House Socializing App
    </p>
    <p align="center">
-    <a href="https://github.com/shashank1503-cipher/Valentina/issues">Report Bug</a>
+    <a href="https://github.com/nikhil9302/Valentina/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shashank1503-cipher/Valentina/issues">Request Feature</a>
+    <a href="https://github.com/nikhil9302/Valentina/issues">Request Feature</a>
   </p>
 </div>
 
@@ -33,7 +33,7 @@ Valentina is the IIIT Kottayam's In-House Socialising App which was made live du
 
 Watch Demo Video 
 
-[![IMAGE_ALT](https://res.cloudinary.com/dpjf6btln/image/upload/v1655268162/Group_1_fsxtab.png)](https://www.youtube.com/watch?v=ybyPOLrMCCo)
+[![IMAGE_ALT](https://res.cloudinary.com/dpjf6btln/image/upload/v1655268162/Group_1_fsxtab.png)](https://www.youtube.com/watch?v=APCEgX62nEc)
 
 ### Built With
 
