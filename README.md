@@ -33,7 +33,7 @@ Valentina is the IIIT Kottayam's In-House Socialising App which was made live du
 
 Watch Demo Video 
 
-[![IMAGE_ALT](https://res.cloudinary.com/dpjf6btln/image/upload/v1655268162/Group_1_fsxtab.png)](https://www.youtube.com/watch?v=APCEgX62nEc)
+[![IMAGE_ALT](https://res.cloudinary.com/dpjf6btln/image/upload/v1655268162/Group_1_fsxtab.png)](https://www.youtube.com/watch?v=EeHwcu8ru4Y)
 
 ### Built With
 
